@@ -1,82 +1,97 @@
-<!-- animated header -->
+<!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00ADB5&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nayyir+%F0%9F%91%8B;Full-Stack+%7C+Embedded+%7C+ECE+@+UT+Austin;I+build+useful+things+with+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+I'm+Nayyir+%F0%9F%91%8B;Full-Stack+Developer;Embedded+%26+Sensing+Systems;ECE+@+UT+Austin">
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/email-contact-red"></a>
-  <a href="https://www.linkedin.com/in/nayyirahsan"><img src="https://img.shields.io/badge/linkedin-connect-blue"></a>
-  <a href="https://github.com/nayyirahsan"><img src="https://img.shields.io/badge/github-profile-black"></a>
+  <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nayyirahsan"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nayyirahsan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 👨‍💻 about me
+## 🌐 ABOUT ME
 
-hey — i’m **nayyir**, and i like building things that feel useful, fun, or just plain clever.
+Hi — I'm **Nayyir**, and I enjoy creating things that blend **software**, **hardware**, and **intelligent systems**.  
+My projects tend to be a mix of:
 
-i’ve worked across a mix of:
-- 🖥 full-stack systems  
-- 🤖 embedded / sensing projects  
-- 📊 analytics & dashboards  
-- 🧪 random experiments that seemed like a good idea at 2am
+- FULL-STACK DEVELOPMENT  
+- EMBEDDED + IOT SYSTEMS  
+- COMPUTER VISION & SENSOR PROCESSING  
+- RANDOM IDEAS THAT TURN INTO COOL BUILDS  
 
-i care a lot about **clean UX**, **good architecture**, and making things that actually *help* people.
+I love clean UI, tight architecture, and finding creative ways to make tech feel *practical*.
 
 ---
 
-## ⚙️ tech i use (and enjoy)
+## ⚡ TECH STACK
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,bash,html,css" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,bash" height="48"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,tensorflow" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,tensorflow" height="48"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,grafana,git,linux,arduino" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,grafana,git,linux,arduino" height="48"/>
 </p>
 
 ---
 
-## 🛠 what i'm building / tinkering with
+## 🚧 PROJECTS I’M PROUD OF
 
-### 🔒 ActiveBreak (chrome extension)
-chrome extension that blocks distracting tabs until you do quick wellness breaks.  
-mixes **tensorflow**, **mediapipe**, and some UX experimentation.  
-
-### 🗑 butler bin
-a small autonomous trash bin for seniors — lidar navigation, esp32 wireless control,  
-and a lot of debugging while it tried to run away from me.
-
-### 🛡 cyberwise
-non-profit i co-founded to help seniors learn online safety.  
-very real impact, very mismatch tech stack — and very worth it.
+### 🔒 **ActiveBreak — Chrome Extension**
+A Chrome extension that *forces self-care* by blocking distracting tabs until you complete quick wellness breaks.  
+Uses **TensorFlow + MediaPipe** for real-time pose tracking, plus a simple, clean UX.
 
 ---
 
-## 📈 activity (light + minimal — no stats flexing)
+### 🤖 **Butler Bin — Autonomous Assistive Bin**
+A small autonomous trash bin designed for seniors.  
+Features **LIDAR navigation**, **ESP32 wireless control**, and a lot of testing while it tried to roll away.
+
+---
+
+### 🛡️ **CyberWise — Cybersecurity Nonprofit**
+Co-founded a nonprofit that teaches digital safety to seniors.  
+Workshops, volunteers, curriculum design — real people helped, real problems solved.
+
+---
+
+## 🎨 AESTHETIC EXTRAS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayyirahsan&theme=github-compact&hide_border=true&radius=8" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayyirahsan&theme=github" width="90%"/>
 </p>
 
----
-
-## ✨ fun stuff
-
-- currently learning: **vision models**, **lidar mapping**, and some **weird chrome extension APIs**
-- always down to talk software, robotics, or build smth cool together
-- if you know a tool that makes dev life better → tell me, i’ll probably try it
-
----
-
-## 📬 reach me
-
 <p align="center">
-  <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/email-ff4f4f?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nayyirahsan"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
 </p>
 
-<!-- footer wave -->
+### 🔧 TOOLS I LIKE
+- Clean little utilities that make dev life nicer  
+- Anything that visualizes data  
+- React component libs with good design taste  
+- Hardware that doesn't break (rare)
+
+---
+
+## 🧭 CURRENTLY EXPLORING
+- COMPUTER VISION MODELS  
+- LIDAR MAPPING + LOCALIZATION  
+- BETTER DEVELOPER TOOLING  
+- FUN CHROME EXTENSION IDEAS  
+
+---
+
+## 📫 LET’S CONNECT
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nayyirahsan"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
 </p>
