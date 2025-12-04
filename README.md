@@ -58,24 +58,6 @@ Workshops, volunteers, curriculum design — real people helped, real problems s
 
 ---
 
-## 🎨 AESTHETIC EXTRAS
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayyirahsan&theme=github" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
-</p>
-
-### 🔧 TOOLS I LIKE
-- Clean little utilities that make dev life nicer  
-- Anything that visualizes data  
-- React component libs with good design taste  
-- Hardware that doesn't break (rare)
-
----
-
 ## 🧭 CURRENTLY EXPLORING
 - COMPUTER VISION MODELS  
 - LIDAR MAPPING + LOCALIZATION  
