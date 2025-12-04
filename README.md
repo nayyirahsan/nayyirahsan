@@ -1,6 +1,6 @@
-<!-- Hero section -->
+<!-- Top wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 </p>
 
 <h1 align="center">hey, i'm Nayyir 👋</h1>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="60%" />
 </p>
 
 ---
@@ -25,16 +25,15 @@
 ## 🚀 About Me
 
 - 🧪 Building things at the intersection of **full-stack, data, and embedded systems**
-- 💼 Experience with **SLB**, **Gulf Interstate Engineering**, and **iCode** teaching 50+ K-12 students to code  
-- 🧠 Interested in **analytics platforms**, **computer vision**, and **assistive robotics**
-- 🎯 Currently exploring: better **developer tooling**, **LIDAR-based navigation**, and **Chrome extensions** for focus
+- 💼 Intern experience at **SLB**, **Gulf Interstate Engineering**, **iCode**
+- 🧠 Focused on **analytics platforms**, **computer vision**, and **assistive robotics**
+- 🎯 Currently exploring better **developer tooling**, **LIDAR navigation**, and **Chrome extensions**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
@@ -48,7 +47,6 @@
 </p>
 
 ### Frameworks & Libraries
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
@@ -56,11 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" />
-  <!-- MediaPipe and Electron don't have official devicons, so skipping icons here -->
 </p>
 
 ### Tools & Platforms
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
@@ -76,55 +72,50 @@
 ## 🧩 Selected Projects
 
 ### 🔒 ActiveBreak – Focus-First Chrome Extension
-Chrome Extension • TensorFlow • MediaPipe
-
+Chrome Extension • TensorFlow • MediaPipe  
 - Blocks distracting tabs until users complete **scheduled wellness breaks**
-- Uses **pose tracking** to verify exercise completion with high accuracy  
-- Ran user studies, tuned UX and timing, and achieved **80%+ adherence** to wellness routines
+- Uses **pose tracking** to verify exercises with high accuracy  
+- Hit **80%+ adherence** in user studies
 
 ---
 
 ### 🗑 Butler Bin – Autonomous Assistive Trash Bin
-Arduino • LIDAR • ESP32 • Embedded Systems
-
-- Designed an **autonomous trash receiver** with LIDAR navigation and encoder feedback  
-- Built wireless ESP-based controls so seniors can summon the bin with **one button**  
-- Reached **98% waypoint accuracy** and safe, autonomous returns to dock in testing
+Arduino • LIDAR • ESP32 • Embedded  
+- Designed a **self-navigating trash bin** with real-time obstacle detection  
+- Wireless ESP-based controller lets elderly users summon it with one button  
+- Achieved **98% waypoint accuracy** and safe autonomous docking
 
 ---
 
-### 🛡 CyberWise – Cybersecurity Education Non-Profit
-Co-Founder & President
-
-- Organized fraud-prevention workshops for **250+ seniors** across multiple chapters  
-- Recruited and led **25+ volunteers**, standardizing curricula and slide decks  
-- Partnered with **60+ senior homes and nonprofits** for recurring sessions
+### 🛡 CyberWise – Cybersecurity Non-Profit
+Co-Founder & President  
+- Ran digital safety workshops for **250+ seniors**  
+- Led 25+ volunteers across 5 chapters  
+- Collaborated with **60+ senior centers** and nonprofits
 
 ---
 
 ## 📚 Experience Snapshot
 
-- 💻 **Software Engineer Intern @ SLB** – built analytics platform with React, ASP.NET, Elasticsearch, and Grafana for 10K+ events  
-- 🖥 **IT Intern @ Gulf Interstate Engineering** – resolved 150+ IT tickets and automated asset tracking for 30+ travel monitors  
-- 👩‍🏫 **Lead Instructor @ iCode** – led project-based Python/JavaScript classes for 50+ K-12 students, focusing on problem solving
+- 💻 **SLB – Software Engineer Intern** → built analytics platform for 10K+ events using React, ASP.NET, Elasticsearch, Grafana  
+- 🖥 **Gulf Interstate – IT Intern** → resolved 150+ hardware/software issues; automated inventory tracking  
+- 👩‍🏫 **iCode – Lead Instructor** → taught Python + JavaScript to 50+ K-12 students with project-based curricula
 
 ---
 
 ## ✨ What I’m Looking For
-
 - SWE / full-stack internships  
-- Roles touching **data, analytics, sensing, or robotics**  
-- Teams that like shipping things, iterating quickly, and measuring impact
+- Opportunities involving **data**, **CV**, **embedded systems**, or **assistive robotics**
 
 ---
 
 ## 📫 Reach Out
-
-If you want to chat about projects, internships, teaching CS, or cool robotics ideas:
-
 - ✉️ **Email:** nayyirahsan@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/nayyirahsan](https://www.linkedin.com/in/nayyirahsan)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nayyirahsan
 
+---
+
+<!-- Bottom wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
