@@ -1,121 +1,82 @@
-<!-- Top wave -->
+<!-- animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
-</p>
-
-<h1 align="center">hey, i'm Nayyir 👋</h1>
-
-<p align="center">
-  <b>Electrical & Computer Engineering @ UT Austin</b><br/>
-  Software Engineer • Full-Stack • Embedded & Sensing Systems
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00ADB5&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nayyir+%F0%9F%91%8B;Full-Stack+%7C+Embedded+%7C+ECE+@+UT+Austin;I+build+useful+things+with+code" />
 </p>
 
 <p align="center">
-  <a href="mailto:nayyirahsan@gmail.com">Email</a> ・
-  <a href="https://www.linkedin.com/in/nayyirahsan">LinkedIn</a> ・
-  <a href="https://github.com/nayyirahsan">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="60%" />
+  <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/email-contact-red"></a>
+  <a href="https://www.linkedin.com/in/nayyirahsan"><img src="https://img.shields.io/badge/linkedin-connect-blue"></a>
+  <a href="https://github.com/nayyirahsan"><img src="https://img.shields.io/badge/github-profile-black"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 about me
 
-- 🧪 Building things at the intersection of **full-stack, data, and embedded systems**
-- 💼 Intern experience at **SLB**, **Gulf Interstate Engineering**, **iCode**
-- 🧠 Focused on **analytics platforms**, **computer vision**, and **assistive robotics**
-- 🎯 Currently exploring better **developer tooling**, **LIDAR navigation**, and **Chrome extensions**
+hey — i’m **nayyir**, and i like building things that feel useful, fun, or just plain clever.
+
+i’ve worked across a mix of:
+- 🖥 full-stack systems  
+- 🤖 embedded / sensing projects  
+- 📊 analytics & dashboards  
+- 🧪 random experiments that seemed like a good idea at 2am
+
+i care a lot about **clean UX**, **good architecture**, and making things that actually *help* people.
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ tech i use (and enjoy)
 
-### Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,bash,html,css" height="40"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,tensorflow" height="40"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,grafana,git,linux,arduino" height="40"/>
 </p>
 
 ---
 
-## 🧩 Selected Projects
+## 🛠 what i'm building / tinkering with
 
-### 🔒 ActiveBreak – Focus-First Chrome Extension
-Chrome Extension • TensorFlow • MediaPipe  
-- Blocks distracting tabs until users complete **scheduled wellness breaks**
-- Uses **pose tracking** to verify exercises with high accuracy  
-- Hit **80%+ adherence** in user studies
+### 🔒 ActiveBreak (chrome extension)
+chrome extension that blocks distracting tabs until you do quick wellness breaks.  
+mixes **tensorflow**, **mediapipe**, and some UX experimentation.  
 
----
+### 🗑 butler bin
+a small autonomous trash bin for seniors — lidar navigation, esp32 wireless control,  
+and a lot of debugging while it tried to run away from me.
 
-### 🗑 Butler Bin – Autonomous Assistive Trash Bin
-Arduino • LIDAR • ESP32 • Embedded  
-- Designed a **self-navigating trash bin** with real-time obstacle detection  
-- Wireless ESP-based controller lets elderly users summon it with one button  
-- Achieved **98% waypoint accuracy** and safe autonomous docking
+### 🛡 cyberwise
+non-profit i co-founded to help seniors learn online safety.  
+very real impact, very mismatch tech stack — and very worth it.
 
 ---
 
-### 🛡 CyberWise – Cybersecurity Non-Profit
-Co-Founder & President  
-- Ran digital safety workshops for **250+ seniors**  
-- Led 25+ volunteers across 5 chapters  
-- Collaborated with **60+ senior centers** and nonprofits
+## 📈 activity (light + minimal — no stats flexing)
 
----
-
-## 📚 Experience Snapshot
-
-- 💻 **SLB – Software Engineer Intern** → built analytics platform for 10K+ events using React, ASP.NET, Elasticsearch, Grafana  
-- 🖥 **Gulf Interstate – IT Intern** → resolved 150+ hardware/software issues; automated inventory tracking  
-- 👩‍🏫 **iCode – Lead Instructor** → taught Python + JavaScript to 50+ K-12 students with project-based curricula
-
----
-
-## ✨ What I’m Looking For
-- SWE / full-stack internships  
-- Opportunities involving **data**, **CV**, **embedded systems**, or **assistive robotics**
-
----
-
-## 📫 Reach Out
-- ✉️ **Email:** nayyirahsan@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/nayyirahsan
-
----
-
-<!-- Bottom wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayyirahsan&theme=github-compact&hide_border=true&radius=8" width="95%"/>
+</p>
+
+---
+
+## ✨ fun stuff
+
+- currently learning: **vision models**, **lidar mapping**, and some **weird chrome extension APIs**
+- always down to talk software, robotics, or build smth cool together
+- if you know a tool that makes dev life better → tell me, i’ll probably try it
+
+---
+
+## 📬 reach me
+
+<p align="center">
+  <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/email-ff4f4f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nayyirahsan"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<!-- footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
