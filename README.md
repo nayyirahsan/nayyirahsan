@@ -52,12 +52,6 @@ Features **LIDAR navigation**, **ESP32 wireless control**, and a lot of testing 
 
 ---
 
-### 🛡️ **CyberWise — Cybersecurity Nonprofit**
-Co-founded a nonprofit that teaches digital safety to seniors.  
-Workshops, volunteers, curriculum design — real people helped, real problems solved.
-
----
-
 ## 🧭 CURRENTLY EXPLORING
 - COMPUTER VISION MODELS  
 - LIDAR MAPPING + LOCALIZATION  
