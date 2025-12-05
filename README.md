@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 ABOUT ME
+## ABOUT ME
 
 Hi — I'm **Nayyir**, and I enjoy creating things that blend **software**, **hardware**, and **intelligent systems**.  
 My projects tend to be a mix of:
@@ -26,7 +26,7 @@ I love clean UI, tight architecture, and finding creative ways to make tech feel
 
 ---
 
-## ⚡ TECH STACK
+## TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,bash" height="48"/>
@@ -38,21 +38,21 @@ I love clean UI, tight architecture, and finding creative ways to make tech feel
 
 ---
 
-## 🚧 PROJECTS I’M PROUD OF
+## PROJECTS I’M PROUD OF
 
-### 🔒 **ActiveBreak — Chrome Extension**
+### **ActiveBreak — Chrome Extension**
 A Chrome extension that *forces self-care* by blocking distracting tabs until you complete quick wellness breaks.  
 Uses **TensorFlow + MediaPipe** for real-time pose tracking, plus a simple, clean UX.
 
 ---
 
-### 🤖 **Butler Bin — Autonomous Assistive Bin**
+### **Butler Bin — Autonomous Assistive Bin**
 A small autonomous trash bin designed for seniors.  
 Features **LIDAR navigation**, **ESP32 wireless control**, and a lot of testing while it tried to roll away.
 
 ---
 
-## 🧭 CURRENTLY EXPLORING
+## CURRENTLY EXPLORING
 - COMPUTER VISION MODELS  
 - LIDAR MAPPING + LOCALIZATION  
 - BETTER DEVELOPER TOOLING  
@@ -60,7 +60,7 @@ Features **LIDAR navigation**, **ESP32 wireless control**, and a lot of testing 
 
 ---
 
-## 📫 LET’S CONNECT
+## LET’S CONNECT
 
 <p align="center">
   <a href="mailto:nayyirahsan@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"></a>
